@@ -5,7 +5,7 @@
 
 Dataset: Import/ Export of Crude Oil and Petroleum Products (in Quantity Terms) from 2013-14 to 2019-20
 Description: Data contains details about import/export of petroleum products in thousand metric tonnes by India from 2013-20.
-Link: [data_link] (https://data.gov.in/resources/import-export-crude-oil-and-petroleum-products-quantity-terms-2013-14-2019-20)
+Link: (https://data.gov.in/resources/import-export-crude-oil-and-petroleum-products-quantity-terms-2013-14-2019-20)
 
 
 # Scatter  Plot Observations:
@@ -13,6 +13,9 @@ Link: [data_link] (https://data.gov.in/resources/import-export-crude-oil-and-pet
 2. Kerosene Import is more or less the same from 2016-20 
 3. Imports for other petroleum products has increased each year from 2016-20.
 4. Rank of Petroleum Products from max import to min : LPG->Diesel->Petrol->Kerosene.
+
+# Bar Plot Observations :
+1. Total export has increased for India from 2013 to 2020 but the Total Import apart from Crude Oil has remained same.
 
 
 # Box Plot Observations:
